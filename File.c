@@ -8,5 +8,6 @@
 int main()
 {
   printf("koukou maggle"); 
+  printf("je suis ajubin, le nouveau barman");
   return 0;          
 }
