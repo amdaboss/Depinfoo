@@ -7,6 +7,6 @@
 
 int main()
 {
-  printf("koukou"); 
+  printf("koukou maggle"); 
   return 0;          
 }
