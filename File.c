@@ -8,6 +8,6 @@
 int main()
 {
   printf("koukou maggle"); 
-  printf("despuducul");
+  printf("fbtg");
   return 0;          
 }
