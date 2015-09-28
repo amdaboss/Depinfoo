@@ -9,6 +9,6 @@ int main()
 {
   printf("koukou maggle"); 
   printf("je suis ajubin, le barman du bar");
-  printf("fbtg");
+  printf("ftg fdp");
   return 0;          
 }
