@@ -8,7 +8,7 @@
 int main()
 {
   printf("koukou maggle"); 
-  printf("je suis ajubin, le pire barman du bar");
+  printf("je suis ajubin, le barman du bar");
   printf("fbtg");
   return 0;          
 }
